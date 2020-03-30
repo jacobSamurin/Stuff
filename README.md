@@ -7,9 +7,7 @@
 2. Physical Science
 	* ~~Physical/Chemical Properties Worksheet~~
 3. Amarican History
-	*
 4. App Dev
 	* Unit 11
 5. FLC
-	*
 6. Math
