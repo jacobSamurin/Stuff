@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		/*border for my canvas*/
+		#logo{
+			border: solid gray 5px;
+			float: right;
+			padding: 20px;
+		}
+	</style>
+</head>
+<body>
+<canvas id="logo" width="600" height="400"></canvas>
+<script>
+	var cnv = document.getElementById('logo');
+	var ctx = cnv.getContext('2d');
+	var	grd = ctx.createRadialGradient (300, 200, 10, 300, 200, 360);
+	//gradient
+	grd.addColorStop(0, "gray");
+	grd.addColorStop(0.5, "gold");
+	grd.addColorStop(1, "gray");
+	ctx.fillStyle = grd;
+	ctx.fillRect(0, 0, 600, 400);
+	//other text
+	ctx.fillStyle = "white";
+	ctx.font = '60px "arial bold"'
+	ctx.fillText('HTML 5', 225, 150)
+	ctx.fillText('CSS 3', 250, 250)
+	//red solid rectangle
+	ctx.fillStyle = 'red';
+	ctx.fillRect(25,50, 300,200);
+	//blue outlined rectangle
+	ctx.strokeStyle = 'blue';
+	ctx.lineWidth = '10';
+	ctx.strokeRect(360, 120, 200, 240);
+	//green solid circles
+	ctx.beginPath();
+	ctx.fillStyle = 'green';
+	ctx.arc (100, 300, 25, 0, Math.PI*2, true);
+	ctx.fill();
+	ctx.closePath();
+	//purple line
+	ctx.beginPath();
+	ctx.strokeStyle = 'purple';
+	ctx.lineWidth = '5';
+	ctx.moveTo(100, 150);
+	ctx.lineTo(100, 200);
+	ctx.stroke();
+	ctx.closePath();
+	//Text
+	ctx.fillStyle = 'orange';
+	ctx.font = '20px "Times New Roman"'
+	ctx.fillText('Jacob',70, 120);
+</script>
+</body>
+</html>
