@@ -18,7 +18,7 @@
 5. FLC
 	* ~~fill out this google [form](https://forms.gle/f2ksj3mbQSiCeezr7)~~
 6. Math
-	* fill out this google [form](https://forms.gle/DBrLsqj1fsx6jG6u5)
+	* ~~fill out this google [form](https://forms.gle/DBrLsqj1fsx6jG6u5)~~
 ---
 
 ### copy
