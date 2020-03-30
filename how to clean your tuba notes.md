@@ -11,3 +11,5 @@
 12. rotate tuba to dry
 10. dry everything
 11. assemble the valves
+12. put back together
+13. buff
