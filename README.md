@@ -3,6 +3,7 @@
 [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "On Github")
 ## school
 ### March 30th
+---
 1. Band
 	* Clean Tuba due Apr 13
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/nNdFQigLF40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
