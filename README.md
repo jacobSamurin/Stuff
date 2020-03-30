@@ -6,11 +6,12 @@
 ---
 1. Band
 	* Clean Tuba due Apr 13
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/nNdFQigLF40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/7haTc8lHSMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	* [How to clean tuba Mouthpiece](https://www.youtube.com/watch?v=7haTc8lHSMc "youtube")
+	* [how to clean tuba[(https://www.youtube.com/watch?v=nNdFQigLF40 "youtube")
 2. Physical Science
 	* ~~Physical/Chemical Properties Worksheet~~
 3. Amarican History
+	* watch [video](https://uaschools.instructure.com/courses/4142/files/526293?module_item_id=147640 "March 30, 2020.mp4")
 4. App Dev
 	* Unit 11
 5. FLC
