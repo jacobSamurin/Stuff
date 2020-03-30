@@ -26,7 +26,7 @@
 2. Physical Science
 	* ~~Physical/Chemical Properties Worksheet~~
 3. Amarican History
-	* watch [video](https://uaschools.instructure.com/courses/4142/files/526293?module_item_id=147640 "video")
+	* ~~watch [video](https://uaschools.instructure.com/courses/4142/files/526293?module_item_id=147640 "video")~~
 4. App Dev
 	* Unit 11
 5. FLC
