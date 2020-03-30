@@ -7,8 +7,8 @@
 ---
 1. Band
 	* Clean Tuba due Apr 13
-	* [How to clean tuba Mouthpiece](https://www.youtube.com/watch?v=7haTc8lHSMc "youtube")
-	* [how to clean tuba](https://www.youtube.com/watch?v=nNdFQigLF40 "youtube")
+	* ~~[How to clean tuba Mouthpiece](https://www.youtube.com/watch?v=7haTc8lHSMc "youtube")~~
+	* ~~[how to clean tuba](https://www.youtube.com/watch?v=nNdFQigLF40 "youtube")~~
 2. Physical Science
 	* ~~Physical/Chemical Properties Worksheet~~
 3. Amarican History
