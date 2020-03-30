@@ -1,6 +1,7 @@
 # Distence learning time
 ## other
 [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "On Github")
+
 ## school
 ### March 30th
 ---
@@ -18,3 +19,13 @@
 	* fill out this google [form](https://forms.gle/f2ksj3mbQSiCeezr7)
 6. Math
 	* fill out this google [form](https://forms.gle/DBrLsqj1fsx6jG6u5)
+---
+
+### copy
+1. Band
+2. Physical Science
+3. Amarican History
+4. App Dev
+5. FLC
+6. Math
+---
