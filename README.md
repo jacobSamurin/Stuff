@@ -30,7 +30,7 @@ cool [website](https://www.windows93.net)
 3. Amarican History
 	* ~~watch [video](https://uaschools.instructure.com/courses/4142/files/526293?module_item_id=147640 "video")~~
 4. App Dev
-	* Unit 11
+	* ~~Unit 11~~
 5. FLC
 	* ~~fill out this google [form](https://forms.gle/f2ksj3mbQSiCeezr7 "form")~~
 6. Math
@@ -47,13 +47,14 @@ cool [website](https://www.windows93.net)
 	* Take [Cornell Notes capter 15 section 2](https://docs.google.com/document/d/1WgLsIp7j9Ko7zOVGVOS7zw0Vnm65jhWX8EEB43JgDbo/edit?usp=sharing "worksheet")
 	* Quiz friday [quizlet](https://docs.google.com/document/d/1WgLsIp7j9Ko7zOVGVOS7zw0Vnm65jhWX8EEB43JgDbo/edit?usp=sharing "quizlet")
 3. Amarican History
+	* Watch this [video](https://uaschools.instructure.com/courses/4142/files/526494/download?download_frd=1 "video")
 	* Unit review questions [submission](https://uaschools.instructure.com/courses/4142/assignments/35139 "assignment")
 4. App Dev
-	* unit 11
+	* unit 11 study guide
 5. FLC
 	* work on quarter 3 reflection [paragraphs](https://docs.google.com/document/d/1M39coHZykgvD2H88vC1CFOBgE5Anl6TWf4euQmcm1v8/edit?usp=sharing "assignment")
 6. Math
-	* the [worksheet](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "worksheet")
+	* Watch Quadratic Formula [video]()
 	* The 3 [questions](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "worksheet")
 ---
 
