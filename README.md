@@ -1,6 +1,7 @@
 # Distence learning time
 ## other
 [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "On Github")
+cool [website](https://www.windows93.net)
 
 ## live classes
 1. Band
