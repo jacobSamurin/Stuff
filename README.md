@@ -65,9 +65,9 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 1. Band
 	* ~~Nothing~~
 2. Physical Science
-	* Check ansers [here](https://drive.google.com/file/d/1PAOpVmu2YlxkYRkkTv-ENVBQJJoN-Y0f/view?usp=sharing "video")
-	* Watch [video](https://drive.google.com/file/d/1CYBvoTZeOJ-jB9GCL8NBwQHJzE-Tuyvy/view?usp=sharing "video")
-	* do [worksheet](https://docs.google.com/document/d/1JM0MNihQiPBBGkQ2Bp91SPQRIVgN9JuXH_LSsH7NhgU/edit?usp=sharing "worksheet")
+	* ~~Check ansers [here](https://drive.google.com/file/d/1PAOpVmu2YlxkYRkkTv-ENVBQJJoN-Y0f/view?usp=sharing "video")~~
+	* ~~Watch [video](https://drive.google.com/file/d/1CYBvoTZeOJ-jB9GCL8NBwQHJzE-Tuyvy/view?usp=sharing "video")~~
+	* ~~do [worksheet](https://docs.google.com/document/d/1JM0MNihQiPBBGkQ2Bp91SPQRIVgN9JuXH_LSsH7NhgU/edit?usp=sharing "worksheet")~~
 3. Amarican History
 	* Unit review questions [submission](https://uaschools.instructure.com/courses/4142/assignments/35139 "assignment")
 4. App Dev
