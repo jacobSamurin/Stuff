@@ -71,7 +71,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 3. Amarican History
 	* Unit review questions [submission](https://uaschools.instructure.com/courses/4142/assignments/35139 "assignment")
 4. App Dev
-	* unit 1-10 review repetable [quiz](https://uaschools.instructure.com/courses/4319/quizzes/16216 "quiz")
+	* ~~unit 1-10 review repetable [quiz](https://uaschools.instructure.com/courses/4319/quizzes/16216 "quiz")~~
 5. FLC
 	* work on quarter 3 reflection [paragraphs](https://docs.google.com/document/d/1M39coHZykgvD2H88vC1CFOBgE5Anl6TWf4euQmcm1v8/edit?usp=sharing "assignment")
 6. Math
