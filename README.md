@@ -21,7 +21,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* TBD
 
 ## school
-### March 30th
+<!--### March 30th
 ---
 1. Band
 	* Clean Tuba due Apr 13
@@ -59,6 +59,19 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 6. Math
 	* ~~Watch Quadratic Formula [video]()~~
 	* ~~The 3 [questions](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "worksheet")~~
+---->
+
+### April 1
+1. Band
+	* ~~Nothing~~
+2. Physical Science
+	* Check ansers [here](https://drive.google.com/file/d/1PAOpVmu2YlxkYRkkTv-ENVBQJJoN-Y0f/view?usp=sharing "video")
+	* Watch [video](https://drive.google.com/file/d/1CYBvoTZeOJ-jB9GCL8NBwQHJzE-Tuyvy/view?usp=sharing "video")
+	* do [worksheet](https://docs.google.com/document/d/1JM0MNihQiPBBGkQ2Bp91SPQRIVgN9JuXH_LSsH7NhgU/edit?usp=sharing "worksheet")
+3. Amarican History
+4. App Dev
+5. FLC
+6. Math
 ---
 
 ### copy
