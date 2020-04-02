@@ -82,6 +82,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 1. Band
 	* ~~Nothing~~
 2. Physical Science
+	* live class at [9:15](https://zoom.us/j/263847054?pwd=eDFYK0tiV1BzRk5zVG5oYnpqNGpTQT09 "zoom url")
+	* [lab](https://docs.google.com/document/d/13D6V3dCJ4DIwlbJK2Kp5w48m_62C3X0ELiWujTIaPy8/edit?usp=sharing "worksheet")
 3. Amarican History
 	* Unit review questions [submission](https://uaschools.instructure.com/courses/4142/assignments/35139 "assignment")
 4. App Dev
