@@ -83,7 +83,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* ~~Nothing~~
 2. Physical Science
 	* ~~live class at [9:15](https://zoom.us/j/263847054?pwd=eDFYK0tiV1BzRk5zVG5oYnpqNGpTQT09 "zoom url")~~
-	* [lab](https://uaschools.schoology.com/assignments/2423925939/info "assignment")
+	* ~~[lab](https://uaschools.schoology.com/assignments/2423925939/info "assignment")~~
 3. Amarican History
 	* Unit review questions [submission](https://uaschools.instructure.com/courses/4142/assignments/35139 "assignment")
 4. App Dev
@@ -92,6 +92,21 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* work on quarter 3 reflection [paragraphs](https://docs.google.com/document/d/1M39coHZykgvD2H88vC1CFOBgE5Anl6TWf4euQmcm1v8/edit?usp=sharing "assignment")
 6. Math
 	* [video](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_eg1g4g "youtube channel")
+---
+
+### April 3
+1. Band
+	* ~~nothing~~
+2. Physical Science
+	* turn in [lab](https://uaschools.schoology.com/assignments/2423925939/info "assignment")
+	* Ring of Truth [EdPuzzle](https://edpuzzle.com/assignments/5e7fa60cbf973d3f0f6722b1/watch "edpuzzle")
+3. Amarican History
+	* Unit review questions [submission](https://uaschools.instructure.com/courses/4142/assignments/35139 "assignment")
+4. App Dev
+	* unit 12
+5. FLC
+	* work on quarter 3 reflection [paragraphs](https://docs.google.com/document/d/1M39coHZykgvD2H88vC1CFOBgE5Anl6TWf4euQmcm1v8/edit?usp=sharing "assignment")
+6. Math
 ---
 
 ### copy
