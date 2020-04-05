@@ -59,7 +59,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 6. Math
 	* ~~Watch Quadratic Formula [video]()~~
 	* ~~The 3 [questions](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "worksheet")~~
---->
+---
 
 ### April 1
 1. Band
@@ -107,7 +107,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 5. FLC
 	* work on quarter 3 reflection [paragraphs](https://docs.google.com/document/d/1M39coHZykgvD2H88vC1CFOBgE5Anl6TWf4euQmcm1v8/edit?usp=sharing "assignment")
 6. Math
----
+--->
 
 ### copy
 1. Band
