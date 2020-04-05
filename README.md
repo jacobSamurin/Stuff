@@ -98,8 +98,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 1. Band
 	* ~~nothing~~
 2. Physical Science
-	* turn in [lab](https://uaschools.schoology.com/assignments/2423925939/info "assignment")
-	* Ring of Truth [EdPuzzle](https://edpuzzle.com/assignments/5e7fa60cbf973d3f0f6722b1/watch "edpuzzle")
+	* ~~turn in [lab](https://uaschools.schoology.com/assignments/2423925939/info "assignment")~~
+	* ~~Ring of Truth [EdPuzzle](https://edpuzzle.com/assignments/5e7fa60cbf973d3f0f6722b1/watch "edpuzzle")~~
 3. Amarican History
 	* Unit review questions [submission](https://uaschools.instructure.com/courses/4142/assignments/35139 "assignment")
 4. App Dev
