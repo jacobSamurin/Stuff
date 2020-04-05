@@ -109,6 +109,21 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 6. Math
 --->
 
+### April 6
+1. Band
+	* ~~nothing~~
+2. Physical Science
+	* Watch [recaction](https://drive.google.com/file/d/17bhlnKGsFQdh0IvRqZBunVCgnj3RDhug/view?usp=sharing "video")
+	* watch [edpuzzle](https://edpuzzle.com/classes/5d6524bed6d98340a655f5df "website w/ videos on it")
+	* [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oMTBWd3lMelNZd3ZXNksxaEZEb0xtaVlUbEZF/view?usp=sharing "worksheet") w/ [video](https://drive.google.com/file/d/1gmtn2OdVCtXnv9oIKM-rDZUxgV4OdVZl/view?usp=sharing	"video")
+	* test review [guide](https://docs.google.com/document/d/1cg2PTBjjFzHnfGVfd-Ibj-uvHX7bQ6pu1mRwvdbkuOc/edit?usp=sharing) pg 1
+3. Amarican History
+4. App Dev
+	* unit 12
+5. FLC
+6. Math
+---
+
 ### copy
 1. Band
 2. Physical Science
