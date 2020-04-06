@@ -113,10 +113,10 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 1. Band
 	* ~~nothing~~
 2. Physical Science
-	* Watch [recaction](https://drive.google.com/file/d/17bhlnKGsFQdh0IvRqZBunVCgnj3RDhug/view?usp=sharing "video")
-	* watch [edpuzzle](https://edpuzzle.com/assignments/5e7fa798cc61b53eecb6878c/watch "video")
-	* [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oMTBWd3lMelNZd3ZXNksxaEZEb0xtaVlUbEZF/view?usp=sharing "worksheet") w/ [video](https://drive.google.com/file/d/1gmtn2OdVCtXnv9oIKM-rDZUxgV4OdVZl/view?usp=sharing	"video")
-	* test review [guide](https://docs.google.com/document/d/1cg2PTBjjFzHnfGVfd-Ibj-uvHX7bQ6pu1mRwvdbkuOc/edit?usp=sharing) pg 1
+	* ~~Watch [recaction](https://drive.google.com/file/d/17bhlnKGsFQdh0IvRqZBunVCgnj3RDhug/view?usp=sharing "video")~~
+	* ~~watch [edpuzzle](https://edpuzzle.com/assignments/5e7fa798cc61b53eecb6878c/watch "video")~~
+	* ~~[worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oMTBWd3lMelNZd3ZXNksxaEZEb0xtaVlUbEZF/view?usp=sharing "worksheet") w/ [video](https://drive.google.com/file/d/1gmtn2OdVCtXnv9oIKM-rDZUxgV4OdVZl/view?usp=sharing	"video")~~
+	* ~~test review [guide](https://docs.google.com/document/d/1cg2PTBjjFzHnfGVfd-Ibj-uvHX7bQ6pu1mRwvdbkuOc/edit?usp=sharing) pg 1~~
 3. Amarican History
 	* [slides](https://docs.google.com/presentation/d/1G94DsXyJnMZr0y1HmjSjc0Kn9K5vc9n-PhWRKk-w-F0/edit "slides")
 	* [video](https://uaschools.instructure.com/courses/4142/files/547098/download?download_frd=1 "video")
