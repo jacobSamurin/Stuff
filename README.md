@@ -114,14 +114,19 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* ~~nothing~~
 2. Physical Science
 	* Watch [recaction](https://drive.google.com/file/d/17bhlnKGsFQdh0IvRqZBunVCgnj3RDhug/view?usp=sharing "video")
-	* watch [edpuzzle](https://edpuzzle.com/classes/5d6524bed6d98340a655f5df "website w/ videos on it")
+	* watch [edpuzzle](https://edpuzzle.com/assignments/5e7fa798cc61b53eecb6878c/watch "video")
 	* [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oMTBWd3lMelNZd3ZXNksxaEZEb0xtaVlUbEZF/view?usp=sharing "worksheet") w/ [video](https://drive.google.com/file/d/1gmtn2OdVCtXnv9oIKM-rDZUxgV4OdVZl/view?usp=sharing	"video")
 	* test review [guide](https://docs.google.com/document/d/1cg2PTBjjFzHnfGVfd-Ibj-uvHX7bQ6pu1mRwvdbkuOc/edit?usp=sharing) pg 1
 3. Amarican History
+	* [slides](https://docs.google.com/presentation/d/1G94DsXyJnMZr0y1HmjSjc0Kn9K5vc9n-PhWRKk-w-F0/edit "slides")
+	* [video](https://uaschools.instructure.com/courses/4142/files/547098/download?download_frd=1 "video")
 4. App Dev
 	* unit 12
 5. FLC
+	* [Living History Assignment](https://docs.google.com/document/d/11jD9VHEqSwqH2QCQoHfrpBoxxZP7U-Ws6MibRzlSglg/edit?usp=sharing "assignment") and explenation [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Living_History_assignment_explained__5e87dea2d54d3.mp4 "video")
 6. Math
+	* [Quiz](https://uaschools.schoology.com/course/2153651015/assessments/2448608327 "QUIZ")
+	* homework check [google form](https://docs.google.com/forms/d/e/1FAIpQLScvVXsmNq2_p5EedrV3IjqgxugIFT7RXC1-ivFL_NcX-x0K_Q/viewform?usp=sf_link "form")
 ---
 
 ### copy
