@@ -148,6 +148,19 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Section_9.1_Day_3_HW_WKST_5e8a41ee6435c.pdf "worksheet")
 ---
 
+### april 8
+1. Band
+	* ~~nothing~~
+2. Physical Science
+	* baggie lab
+	* watch [video](https://drive.google.com/file/d/1CYBvoTZeOJ-jB9GCL8NBwQHJzE-Tuyvy/view?usp=sharing "video")
+	* do [worksheet]( https://docs.google.com/document/d/1JM0MNihQiPBBGkQ2Bp91SPQRIVgN9JuXH_LSsH7NhgU/edit?usp=sharing "worksheet")
+3. Amarican History
+4. App Dev
+5. FLC
+6. Math
+---
+
 ### copy
 1. Band
 2. Physical Science
