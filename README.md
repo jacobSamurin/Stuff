@@ -164,6 +164,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Living History Assignment](https://docs.google.com/document/d/11jD9VHEqSwqH2QCQoHfrpBoxxZP7U-Ws6MibRzlSglg/edit?usp=sharing "assignment") and explenation [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Living_History_assignment_explained__5e87dea2d54d3.mp4 "video")
 	* open [pdf](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Shakespeare_background_article_5e87dea2a4fd5.pdf "worksheet") in notablity
 	* google [form](https://forms.gle/EDWP6j66QgCVmbQ39 "form")
+	* Common words sakespeare uses [quizlet](https://quizlet.com/_6emoag?x=1jqt&i=13lg3c "quizlet")
 6. Math
 	* [Worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Section_9.1_Day_3_HW_WKST_5e8a41ee6435c.pdf "worksheet")
 	* [Video](https://www.youtube.com/watch?v=Ne4pYsNhbm0 "video")
