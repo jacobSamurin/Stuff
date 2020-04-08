@@ -153,6 +153,30 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Section_9.1_Day_3_HW_WKST_5e8a41ee6435c.pdf "worksheet")
 ---
 
+### april 8
+1. ~~Band~~
+	* ~~nothing~~
+2. Physical Science
+	* ~~baggie lab~~
+	* watch [video](https://drive.google.com/file/d/1CYBvoTZeOJ-jB9GCL8NBwQHJzE-Tuyvy/view?usp=sharing "video")
+	* do [worksheet]( https://docs.google.com/document/d/1JM0MNihQiPBBGkQ2Bp91SPQRIVgN9JuXH_LSsH7NhgU/edit?usp=sharing "worksheet")
+3. Amarican History
+	* [video](https://uaschools.instructure.com/courses/4142/files/549826/download?wrap=1 "video")
+	* [slides](https://docs.google.com/presentation/d/1G94DsXyJnMZr0y1HmjSjc0Kn9K5vc9n-PhWRKk-w-F0/edit "slides")
+4. App Dev
+	* unit 12
+5. FLC
+	* [Living History Assignment](https://docs.google.com/document/d/11jD9VHEqSwqH2QCQoHfrpBoxxZP7U-Ws6MibRzlSglg/edit?usp=sharing "assignment") and explenation [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Living_History_assignment_explained__5e87dea2d54d3.mp4 "video")
+	* open [pdf](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Shakespeare_background_article_5e87dea2a4fd5.pdf "worksheet") in notablity
+	* google [form](https://forms.gle/EDWP6j66QgCVmbQ39 "form")
+	* Common words sakespeare uses [quizlet](https://quizlet.com/_6emoag?x=1jqt&i=13lg3c "quizlet")
+6. Math
+	* [Worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Section_9.1_Day_3_HW_WKST_5e8a41ee6435c.pdf "worksheet")
+	* [Video](https://www.youtube.com/watch?v=Ne4pYsNhbm0 "video")
+	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf "worksheet") w/ video
+	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf "worksheet")
+---
+
 ### copy
 1. Band
 2. Physical Science
