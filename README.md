@@ -149,10 +149,10 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ---
 
 ### april 8
-1. Band
+1. ~~Band~~
 	* ~~nothing~~
 2. Physical Science
-	* baggie lab
+	* ~~baggie lab~~
 	* watch [video](https://drive.google.com/file/d/1CYBvoTZeOJ-jB9GCL8NBwQHJzE-Tuyvy/view?usp=sharing "video")
 	* do [worksheet]( https://docs.google.com/document/d/1JM0MNihQiPBBGkQ2Bp91SPQRIVgN9JuXH_LSsH7NhgU/edit?usp=sharing "worksheet")
 3. Amarican History
