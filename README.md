@@ -196,7 +196,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 4. App Dev
 	* unit 12
 5. FLC
-	* [Living History Assignment](https://docs.google.com/document/d/1DlKIg8xD59uRZt5i9yHmZ1twUypEbCyTZlmouw9rD7Q/editb "assignment") and explenation [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Living_History_assignment_explained__5e87dea2d54d3.mp4 "video")
+	* [Living History Assignment](https://docs.google.com/document/d/1DlKIg8xD59uRZt5i9yHmZ1twUypEbCyTZlmouw9rD7Q/edit?usp=sharing "assignment")
 	* write a sentince using shackspear words [here](https://uaschools.schoology.com/course/2150433587/materials/discussion/view/2446248128 "assimentn ")
 	* watch [video](https://uaschools.schoology.com/course/2150433587/materials/gp/2446248136 "video")
 6. Math
@@ -228,6 +228,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Video](https://www.youtube.com/watch?v=Ne4pYsNhbm0 "video")
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf "worksheet") w/ video
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf "worksheet")
+7. Other stuff
+	* write intro pargraph
 ---
 
 ### copy
