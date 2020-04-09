@@ -184,7 +184,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf "worksheet")
 ---
 
-### copy
+### april 9
 1. ~~Band~~
 	* ~~nothing~~
 2. Physical Science
