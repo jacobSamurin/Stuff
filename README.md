@@ -166,7 +166,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 4. App Dev
 	* unit 12
 5. FLC
-	* [Living History Assignment](https://docs.google.com/document/d/1DlKIg8xD59uRZt5i9yHmZ1twUypEbCyTZlmouw9rD7Q/edit "assignment") and explenation [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Living_History_assignment_explained__5e87dea2d54d3.mp4 "video")
+	* [Living History Assignment](https://docs.google.com/document/d/1DlKIg8xD59uRZt5i9yHmZ1twUypEbCyTZlmouw9rD7Q/editb "assignment") and explenation [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Living_History_assignment_explained__5e87dea2d54d3.mp4 "video")
 	* ~~open [pdf](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Shakespeare_background_article_5e87dea2a4fd5.pdf "worksheet") in notablity~~
 	* ~~google [form](https://forms.gle/EDWP6j66QgCVmbQ39 "form")~~
 	* ~~Common words sakespeare uses [quizlet](https://quizlet.com/_6emoag?x=1jqt&i=13lg3c "quizlet")~~
@@ -175,6 +175,19 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Video](https://www.youtube.com/watch?v=Ne4pYsNhbm0 "video")
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf "worksheet") w/ video
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf "worksheet")
+---
+
+### copy
+1. ~~Band~~
+	* ~~nothing~~
+2. Physical Science
+3. American History
+	* [form](https://forms.gle/4XiGqJpdCYFq8wet5 "form")
+	* [form]
+	* [form]
+4. App Dev
+5. FLC
+6. Math
 ---
 
 ### copy
