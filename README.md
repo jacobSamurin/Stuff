@@ -187,7 +187,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### april 9
 1. ~~Band~~
 	* ~~nothing~~
-2. Physical Science
+2. ~~Physical Science~~
+	* ~~nothing~~
 3. American History
 	* [form](https://forms.gle/4XiGqJpdCYFq8wet5 "form")
 	* [form](https://forms.gle/oXNeiauDDi1gp6CH9 "form")
