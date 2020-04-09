@@ -190,9 +190,9 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 2. ~~Physical Science~~
 	* ~~nothing~~
 3. American History
-	* [form](https://forms.gle/4XiGqJpdCYFq8wet5 "form")
-	* [form](https://forms.gle/oXNeiauDDi1gp6CH9 "form")
-	* [form](https://forms.gle/Rddb7nGnWw7tuNnV8 "form")
+	* ~~[form](https://forms.gle/4XiGqJpdCYFq8wet5 "form")~~
+	* ~~[form](https://forms.gle/oXNeiauDDi1gp6CH9 "form")~~
+	* ~~[form](https://forms.gle/Rddb7nGnWw7tuNnV8 "form")~~
 4. App Dev
 	* unit 12
 5. FLC
