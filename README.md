@@ -11,6 +11,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 ### inportent links for FLC
 [audio](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "audio")
+
 [text](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
 
 ## live classes
