@@ -219,11 +219,11 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 4. App Dev
 	* unit 13
 5. FLC
-	* [watch](https://uaschools.schoology.com/course/2150433587/materials/gp/2461318036 "video")
-	* [read](https://docs.google.com/document/d/1ei6xkxXxQ9MfNl3T8A91w9bP85Sf7gBOV9wwbPYulVM/edit?usp=sharing "artical")
-	* [watch](https://edpuzzle.com/assignments/5e87b325b8b1963f85fff2a5/watch "edpuzzle")
-	* [watch](https://edpuzzle.com/assignments/5e87b325b694653f8a710849/watch "edpuzzle")
-	* [watch](https://edpuzzle.com/assignments/5e90afc338498c3f15a8394a/watch "edpuzzle")
+	* ~~[watch](https://uaschools.schoology.com/course/2150433587/materials/gp/2461318036 "video")~~
+	* ~~[read](https://docs.google.com/document/d/1ei6xkxXxQ9MfNl3T8A91w9bP85Sf7gBOV9wwbPYulVM/edit?usp=sharing "artical")~~
+	* ~~[watch](https://edpuzzle.com/assignments/5e87b325b8b1963f85fff2a5/watch "edpuzzle")~~
+	* ~~[watch](https://edpuzzle.com/assignments/5e87b325b694653f8a710849/watch "edpuzzle")~~
+	* ~~[watch](https://edpuzzle.com/assignments/5e90afc338498c3f15a8394a/watch "edpuzzle")~~
 6. Math
 	* [Worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Section_9.1_Day_3_HW_WKST_5e8a41ee6435c.pdf "worksheet")
 	* [Video](https://www.youtube.com/watch?v=Ne4pYsNhbm0 "video")
