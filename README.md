@@ -9,7 +9,9 @@ cool [website](https://www.windows93.net "windows93")
 
 Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_eg1g4g "youtube channel")
 
-[click](https://docs.google.com/document/d/1Dx9tvjxuHw8piu_W5HzV7jiDrHLLKgO4Zk_EVdBzJKc/edit)
+###inportent links for FLC
+[audio](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "audio")
+[text](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
 
 ## live classes
 1. Band
@@ -112,7 +114,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 5. FLC
 	* work on quarter 3 reflection [paragraphs](https://docs.google.com/document/d/1M39coHZykgvD2H88vC1CFOBgE5Anl6TWf4euQmcm1v8/edit?usp=sharing "assignment")
 6. Math
---->
+---
 
 ### April 6
 1. Band
@@ -196,6 +198,29 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Living History Assignment](https://docs.google.com/document/d/1DlKIg8xD59uRZt5i9yHmZ1twUypEbCyTZlmouw9rD7Q/editb "assignment") and explenation [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Living_History_assignment_explained__5e87dea2d54d3.mp4 "video")
 	* write a sentince using shackspear words [here](https://uaschools.schoology.com/course/2150433587/materials/discussion/view/2446248128 "assimentn ")
 	* watch [video](https://uaschools.schoology.com/course/2150433587/materials/gp/2446248136 "video")
+6. Math
+	* [Worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Section_9.1_Day_3_HW_WKST_5e8a41ee6435c.pdf "worksheet")
+	* [Video](https://www.youtube.com/watch?v=Ne4pYsNhbm0 "video")
+	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf "worksheet") w/ video
+	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf "worksheet")
+--->
+
+### april 13
+1. ~~Band~~
+	* ~~nothing~~
+2. Physical Science
+	* [TEST](https://uaschools.schoology.com/assignment/2464342745/assessment "TEST")
+	* [TEST SECOND PART](https://uaschools.schoology.com/course/2149328409/materials/discussion/view/2460706725 "TEST")
+3. American History
+	* [video](https://uaschools.instructure.com/courses/4142/files/563554/download?wrap=1 "video")
+4. App Dev
+	* unit 13
+5. FLC
+	* [watch](https://uaschools.schoology.com/course/2150433587/materials/gp/2461318036 "video")
+	* [read](https://docs.google.com/document/d/1ei6xkxXxQ9MfNl3T8A91w9bP85Sf7gBOV9wwbPYulVM/edit?usp=sharing "artical")
+	* [watch](https://edpuzzle.com/assignments/5e87b325b8b1963f85fff2a5/watch "edpuzzle")
+	* [watch](https://edpuzzle.com/assignments/5e87b325b694653f8a710849/watch "edpuzzle")
+	* [watch](https://edpuzzle.com/assignments/5e90afc338498c3f15a8394a/watch "edpuzzle")
 6. Math
 	* [Worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Section_9.1_Day_3_HW_WKST_5e8a41ee6435c.pdf "worksheet")
 	* [Video](https://www.youtube.com/watch?v=Ne4pYsNhbm0 "video")
