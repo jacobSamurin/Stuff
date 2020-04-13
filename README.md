@@ -212,8 +212,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [TEST](https://uaschools.schoology.com/assignment/2464342745/assessment "TEST")
 	* [TEST SECOND PART](https://uaschools.schoology.com/course/2149328409/materials/discussion/view/2460706725 "TEST")
 3. American History
-	* [video](https://uaschools.instructure.com/courses/4142/files/563554/download?wrap=1 "video")
-	* [slides](https://docs.google.com/presentation/d/1G94DsXyJnMZr0y1HmjSjc0Kn9K5vc9n-PhWRKk-w-F0/edit "slides")
+	* ~~[video](https://uaschools.instructure.com/courses/4142/files/563554/download?wrap=1 "video")~~
+	* ~~[slides](https://docs.google.com/presentation/d/1G94DsXyJnMZr0y1HmjSjc0Kn9K5vc9n-PhWRKk-w-F0/edit "slides")~~
 4. App Dev
 	* unit 13
 5. FLC
