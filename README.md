@@ -223,11 +223,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* ~~[watch](https://edpuzzle.com/assignments/5e87b325b694653f8a710849/watch "edpuzzle")~~
 	* ~~[watch](https://edpuzzle.com/assignments/5e90afc338498c3f15a8394a/watch "edpuzzle")~~
 6. Math
-	* [Worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Section_9.1_Day_3_HW_WKST_5e8a41ee6435c.pdf "worksheet")
-	* [Video](https://www.youtube.com/watch?v=Ne4pYsNhbm0 "video")
-	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf "worksheet") w/ video
-	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf "worksheet")
----
+	* ~~nothing~~
 
 ### copy
 1. Band
