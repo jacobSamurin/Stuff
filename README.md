@@ -9,8 +9,9 @@ cool [website](https://www.windows93.net "windows93")
 
 Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_eg1g4g "youtube channel")
 
-###inportent links for FLC
+### inportent links for FLC
 [audio](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "audio")
+
 [text](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
 
 ## live classes
@@ -184,18 +185,19 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf "worksheet")
 ---
 
-### copy
+### april 9
 1. ~~Band~~
 	* ~~nothing~~
-2. Physical Science
+2. ~~Physical Science~~
+	* ~~nothing~~
 3. American History
-	* [form](https://forms.gle/4XiGqJpdCYFq8wet5 "form")
-	* [form](https://forms.gle/oXNeiauDDi1gp6CH9 "form")
-	* [form](https://forms.gle/Rddb7nGnWw7tuNnV8 "form")
+	* ~~[form](https://forms.gle/4XiGqJpdCYFq8wet5 "form")~~
+	* ~~[form](https://forms.gle/oXNeiauDDi1gp6CH9 "form")~~
+	* ~~[form](https://forms.gle/Rddb7nGnWw7tuNnV8 "form")~~
 4. App Dev
 	* unit 12
 5. FLC
-	* [Living History Assignment](https://docs.google.com/document/d/1DlKIg8xD59uRZt5i9yHmZ1twUypEbCyTZlmouw9rD7Q/editb "assignment") and explenation [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/Living_History_assignment_explained__5e87dea2d54d3.mp4 "video")
+	* [Living History Assignment](https://docs.google.com/document/d/1DlKIg8xD59uRZt5i9yHmZ1twUypEbCyTZlmouw9rD7Q/edit?usp=sharing "assignment")
 	* write a sentince using shackspear words [here](https://uaschools.schoology.com/course/2150433587/materials/discussion/view/2446248128 "assimentn ")
 	* watch [video](https://uaschools.schoology.com/course/2150433587/materials/gp/2446248136 "video")
 6. Math
@@ -223,7 +225,28 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* ~~[watch](https://edpuzzle.com/assignments/5e87b325b694653f8a710849/watch "edpuzzle")~~
 	* ~~[watch](https://edpuzzle.com/assignments/5e90afc338498c3f15a8394a/watch "edpuzzle")~~
 6. Math
+<<<<<<< HEAD
 	* ~~nothing~~
+=======
+---
+
+### april 14
+1. ~~Band~~
+	* ~~nothing~~
+2. Physical Science
+	* [TEST](https://uaschools.schoology.com/assignment/2464342745/assessment "TEST")
+	* [TEST SECOND PART](https://uaschools.schoology.com/course/2149328409/materials/discussion/view/2460706725 "TEST")
+3. American History
+	* final [Project](https://uaschools.instructure.com/courses/4142/assignments/38083 "final") for unit 12
+		* Due friday
+4. App Dev
+	* unit 13
+5. FLC
+	* read [slides](https://docs.google.com/presentation/d/1tP7fJmRYn3FGs7T7LGwj6CVGodsGSbTFob6SxUDm4EA/edit?usp=sharing "slides") 6-9
+6. Math
+	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Graphing_a_Parabola_from_Vertex_Form_HW_WKST_5e94701f03d29.pdf "worksheet")
+---
+>>>>>>> origin/master
 
 ### copy
 1. Band
