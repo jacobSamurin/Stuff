@@ -225,7 +225,6 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* ~~[watch](https://edpuzzle.com/assignments/5e87b325b694653f8a710849/watch "edpuzzle")~~
 	* ~~[watch](https://edpuzzle.com/assignments/5e90afc338498c3f15a8394a/watch "edpuzzle")~~
 6. Math
-<<<<<<< HEAD
 	* ~~nothing~~
 =======
 ---
@@ -234,7 +233,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 1. ~~Band~~
 	* ~~nothing~~
 2. Physical Science
-	* [TEST](https://uaschools.schoology.com/assignment/2464342745/assessment "TEST")
+	* ~~[TEST](https://uaschools.schoology.com/assignment/2464342745/assessment "TEST")~~
 	* [TEST SECOND PART](https://uaschools.schoology.com/course/2149328409/materials/discussion/view/2460706725 "TEST")
 3. American History
 	* final [Project](https://uaschools.instructure.com/courses/4142/assignments/38083 "final") for unit 12
@@ -242,11 +241,28 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 4. App Dev
 	* unit 13
 5. FLC
-	* read [slides](https://docs.google.com/presentation/d/1tP7fJmRYn3FGs7T7LGwj6CVGodsGSbTFob6SxUDm4EA/edit?usp=sharing "slides") 6-9
+	* ~~read [slides](https://docs.google.com/presentation/d/1tP7fJmRYn3FGs7T7LGwj6CVGodsGSbTFob6SxUDm4EA/edit?usp=sharing "slides") 6-9~~
 6. Math
-	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Graphing_a_Parabola_from_Vertex_Form_HW_WKST_5e94701f03d29.pdf "worksheet")
+	* ~~[worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Graphing_a_Parabola_from_Vertex_Form_HW_WKST_5e94701f03d29.pdf "worksheet")~~
 ---
->>>>>>> origin/master
+
+### april 15
+1. ~~Band~~
+	* ~~nothing~~
+2. Physical Science
+	* [TEST SECOND PART](https://uaschools.schoology.com/course/2149328409/materials/discussion/view/2460706725 "TEST")
+3. American History
+	* final [Project](https://uaschools.instructure.com/courses/4142/assignments/38083 "final") for unit 12
+		* Due friday
+4. App Dev
+	* unit 13
+5. FLC
+	* [lisen](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "audio book") and [read](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
+	* [form](https://forms.gle/xv3yb8MskmL5Jxer8 "form")
+6. Math
+	* [video](https://www.youtube.com/watch?v=ng2uIqEun_U "video")
+	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Intercept_Form_of_a_Quadratic_5e947e707a051.pdf "worksheet")
+---
 
 ### copy
 1. Band
