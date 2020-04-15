@@ -226,7 +226,6 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* ~~[watch](https://edpuzzle.com/assignments/5e90afc338498c3f15a8394a/watch "edpuzzle")~~
 6. Math
 	* ~~nothing~~
-=======
 ---
 
 ### april 14
