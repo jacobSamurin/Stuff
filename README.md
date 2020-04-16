@@ -263,6 +263,19 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Intercept_Form_of_a_Quadratic_5e947e707a051.pdf "worksheet")
 ---
 
+### april 16
+1. ~~Band~~
+2. ~~Physical Science~~
+3. American History
+	* final [Project](https://uaschools.instructure.com/courses/4142/assignments/38083 "final") for unit 12
+		* Due friday
+4. App Dev
+	* unit 13
+5. FLC
+	* [video](https://edpuzzle.com/assignments/5e90bc5088dd2e3f1475f55f/watch "video"]
+6. Math
+---
+
 ### copy
 1. Band
 2. Physical Science
