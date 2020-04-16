@@ -272,7 +272,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 4. App Dev
 	* unit 13
 5. FLC
-	* [video](https://edpuzzle.com/assignments/5e90bc5088dd2e3f1475f55f/watch "video"]
+	* [video](https://edpuzzle.com/assignments/5e90bc5088dd2e3f1475f55f/watch "video")
 6. Math
 ---
 
