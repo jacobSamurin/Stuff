@@ -282,7 +282,6 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* vocab notes for [slides](https://docs.google.com/presentation/d/15OJ_fUciM72-OYWW0Q207ROiYPtpYL3zp0t2Oc-kVyo/edit?usp=sharing "slides")
 3. American History
 	* final [Project](https://uaschools.instructure.com/courses/4142/assignments/38083 "final") for unit 12
-		* Due friday
 4. App Dev
 	* [quiz](https://uaschools.instructure.com/courses/4319/quizzes/17337?module_item_id=149882 "quiz")
 5. FLC
