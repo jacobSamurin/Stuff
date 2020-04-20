@@ -298,15 +298,15 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### april 20
 1. Band
 2. Physical Science
-	* watch [video](https://youtu.be/yQP4UJhNn0I "video ")
+	* ~~watch [video](https://youtu.be/yQP4UJhNn0I "video")~~
 3. American History
-	* watch [video](https://uaschools.instructure.com/courses/4142/files/584217/download?wrap=1 "video")
+	* ~~watch [video](https://uaschools.instructure.com/courses/4142/files/584217/download?wrap=1 "video")~~
 	* final [Project](https://uaschools.instructure.com/courses/4142/assignments/38083 "final") for unit 12
 4. App Dev
 	* unit 15
 5. FLC
-	* [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/RJ_Recap_Video_5e9a0aa43f1b0.mp4 "video")
-	* fill out [forms](https://forms.gle/GEVa1jCJs4tkSYu57 "forms")
+	* ~~[video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/RJ_Recap_Video_5e9a0aa43f1b0.mp4 "video")~~
+	* ~~fill out [forms](https://forms.gle/GEVa1jCJs4tkSYu57 "forms")~~
 	* do [this](https://docs.google.com/document/d/1-0jzfM3DS-dgqcLHDl7eexUapMEKUCsSOA1ILrfsD9A/edit "assiment")
 6. Math
 	* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSdkUlR94rTIFbjzMdlSuOp5zB_Y1t50VNBNtSemCBYzNnMZyg/viewform?usp=sf_link "form")
