@@ -14,6 +14,10 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 [text](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
 
+***
+
+
+
 ## live classes
 1. Band
 	* TBD
@@ -290,6 +294,21 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* do all you can
 	* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSdkUlR94rTIFbjzMdlSuOp5zB_Y1t50VNBNtSemCBYzNnMZyg/viewform?usp=sf_link "form")
 --->
+
+### april 20
+1. Band
+2. Physical Science
+	* watch [video](https://youtu.be/yQP4UJhNn0I "video ")
+3. American History
+	* watch [video](https://uaschools.instructure.com/courses/4142/files/584217/download?wrap=1 "video")
+	* final [Project](https://uaschools.instructure.com/courses/4142/assignments/38083 "final") for unit 12
+4. App Dev
+	* unit 15
+5. FLC
+	* [video](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/RJ_Recap_Video_5e9a0aa43f1b0.mp4 "video")
+6. Math
+	* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSdkUlR94rTIFbjzMdlSuOp5zB_Y1t50VNBNtSemCBYzNnMZyg/viewform?usp=sf_link "form")
+---
 
 ### copy
 1. Band
