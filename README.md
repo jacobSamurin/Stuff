@@ -14,6 +14,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 [text](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
 
+[quizlet](https://quizlet.com/_6emoag?x=1jqt&i=13lg3c "quizlet")
+
 ***
 
 
