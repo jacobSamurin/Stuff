@@ -327,7 +327,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 6. Math
 	* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSdkUlR94rTIFbjzMdlSuOp5zB_Y1t50VNBNtSemCBYzNnMZyg/viewform?usp=sf_link "form")
 	* Complete the Vertex & Intercept Form of a Quadratic HW [WKST]()
-	* do <img src="file:///Users/jsamurin/Desktop/Screen%20Shot%202020-04-21%20at%202.04.24%20PM.png">
+	* do <img src="file:///Users/jsamurin/Documents/GitHub/Stuff/Screen%20Shot%202020-04-21%20at%202.04.24%20PM.png">
 ---
 
 ### copy
