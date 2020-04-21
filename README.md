@@ -312,6 +312,21 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSdkUlR94rTIFbjzMdlSuOp5zB_Y1t50VNBNtSemCBYzNnMZyg/viewform?usp=sf_link "form")
 ---
 
+### april 21
+1. Band
+2. Physical Science
+	* watch [video](https://drive.google.com/file/d/1gbr7e5hyCbDvYau-tmak7MuOiyVOrgod/view?usp=sharing "video") fill out [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oN2pZOFNNQzZNbFROZXprOG1wZXRkbklpNXBZ/view?usp=sharing "worksheet")
+3. American History
+	* watch [video](https://uaschools.instructure.com/courses/4142/files/586009/download?wrap=1 "video")
+4. App Dev
+	* unit 15
+5. FLC
+	* [lison](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "audio") and [book](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
+	* [anotate](https://docs.google.com/document/d/1qLV1aCqPoyK9utvNx1r5K-k_CO-WAcS9Tt8fEXnIyMM/edit?usp=sharing "worksheet")
+	* [watch](https://edpuzzle.com/assignments/5e99da98a5b7d33f14e5e890/watch "video")
+6. Math
+---
+
 ### copy
 1. Band
 2. Physical Science
