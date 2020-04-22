@@ -76,12 +76,12 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 2. Physical Science
 	* ~~do [this](https://drive.google.com/file/d/1Weq_DcWz0Bv6KWXkeg0cTSXwNL45deLt/view?usp=sharing "worksheet") w/ periodic table~~
 3. American History
-	* [video](https://uaschools.instructure.com/courses/4142/files/587979/download?wrap=1 "video")
+	* ~~[video](https://uaschools.instructure.com/courses/4142/files/587979/download?wrap=1 "video")~~
 4. App Dev
 	* unit 15
 5. FLC
-	* watch [video](https://edpuzzle.com/assignments/5e99ba833f921f3f0dc81e07/watch "video")
-	* play [game](http://quizizz.com/join?gc=825198 "quizizz")
+	* ~~watch [video](https://edpuzzle.com/assignments/5e99ba833f921f3f0dc81e07/watch "video")~~
+	* ~~play [game](http://quizizz.com/join?gc=825198 "quizizz")~~
 	* [Act 1 journnal prompt](https://docs.google.com/document/d/1-0jzfM3DS-dgqcLHDl7eexUapMEKUCsSOA1ILrfsD9A/edit?usp=sharing "thing")
 	* [prolouge anoutation](https://docs.google.com/document/d/1ei6xkxXxQ9MfNl3T8A91w9bP85Sf7gBOV9wwbPYulVM/edit?usp=sharing)
 6. Math
