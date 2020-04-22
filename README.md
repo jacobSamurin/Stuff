@@ -68,7 +68,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 6. Math
 	* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSdkUlR94rTIFbjzMdlSuOp5zB_Y1t50VNBNtSemCBYzNnMZyg/viewform?usp=sf_link "form")
 	* Complete the Vertex & Intercept Form of a Quadratic HW [WKST]()
-	* do <img src="https://lh4.googleusercontent.com/u6Ov-GVQUvGJ5aL9tBmEVeHwI8whTaQDHOunqyDPb14bXPWe_g5y_1GF7sULq5jg7kdmnpuUluvb619bE2qr=w1440-h804">
+	* do <img src="name.png">
 ---
 
 ### april 22
