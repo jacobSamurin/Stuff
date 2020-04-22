@@ -74,7 +74,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### april 22
 1. Band
 2. Physical Science
-	* do [this](https://drive.google.com/file/d/1Weq_DcWz0Bv6KWXkeg0cTSXwNL45deLt/view?usp=sharing "worksheet") w/ periodic table
+	* ~~do [this](https://drive.google.com/file/d/1Weq_DcWz0Bv6KWXkeg0cTSXwNL45deLt/view?usp=sharing "worksheet") w/ periodic table~~
 3. American History
 	* [video](https://uaschools.instructure.com/courses/4142/files/587979/download?wrap=1 "video")
 4. App Dev
@@ -82,7 +82,18 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 5. FLC
 	* watch [video](https://edpuzzle.com/assignments/5e99ba833f921f3f0dc81e07/watch "video")
 	* play [game](http://quizizz.com/join?gc=825198 "quizizz")
+	* [Act 1 journnal prompt](https://docs.google.com/document/d/1-0jzfM3DS-dgqcLHDl7eexUapMEKUCsSOA1ILrfsD9A/edit?usp=sharing "thing")
+	* [prolouge anoutation](https://docs.google.com/document/d/1ei6xkxXxQ9MfNl3T8A91w9bP85Sf7gBOV9wwbPYulVM/edit?usp=sharing)
 6. Math
+	1. Homeworks
+		* [Quadratic Formula Review](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "ban")
+		* [Section 9.2 Day 1 HW WKST #2 ](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_2_5e8f679c1feb6.pdf "worksheet")
+		* [Section 9.2 Day 1]()
+		* [Graphing a Parabola from Vertex Form](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf)
+		* [Vertex & Intercept Form of a Quadratic HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Algebra_Vertex_and_Intercept_Form_HW_WKST_5e99bee2d53db.pdf "nice")
+		* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSe8L5W8V8cN7BH8qxaZyiDFser0az3-v4arH7sfjPllK3nYRQ/viewform?usp=sf_link "form")
+	1. today
+		* watch [video](https://www.youtube.com/watch?v=EvxELyypQu8)
 ---
 
 <!--
