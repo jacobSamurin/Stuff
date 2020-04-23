@@ -99,11 +99,12 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### april 23
 1. Band
 2. Physical Science
-	* [notes](https://drive.google.com/file/d/0B7GiQq4i5D4odHRYT3FNWWR0dFZIR25ZeklKSGFQUTl6Z1pj/view?usp=sharing)
+	* ~~[notes](https://drive.google.com/file/d/0B7GiQq4i5D4odHRYT3FNWWR0dFZIR25ZeklKSGFQUTl6Z1pj/view?usp=sharing)~~
 3. American History
 	* [video](https://uaschools.instructure.com/courses/4142/files/588511/download?wrap=1)
 4. App Dev
 	* unit 15
+	* final [Project](https://uaschools.instructure.com/courses/4142/assignments/38083 "final") for unit 12
 5. FLC
 	* [Act 1 journnal prompt](https://docs.google.com/document/d/1-0jzfM3DS-dgqcLHDl7eexUapMEKUCsSOA1ILrfsD9A/edit?usp=sharing "thing")
 	* [prolouge anoutation](https://docs.google.com/document/d/1ei6xkxXxQ9MfNl3T8A91w9bP85Sf7gBOV9wwbPYulVM/edit?usp=sharing)
