@@ -96,6 +96,16 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 		* watch [video](https://www.youtube.com/watch?v=EvxELyypQu8)
 ---
 
+### april 23
+1. Band
+2. Physical Science
+	* [notes](https://drive.google.com/file/d/0B7GiQq4i5D4odHRYT3FNWWR0dFZIR25ZeklKSGFQUTl6Z1pj/view?usp=sharing)
+3. American History
+4. App Dev
+5. FLC
+6. Math
+---
+
 <!--
 
 ### copy
