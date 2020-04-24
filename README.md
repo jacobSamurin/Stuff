@@ -18,7 +18,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 ***
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QQ7mSpVyIJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## live classes
 1. Band
