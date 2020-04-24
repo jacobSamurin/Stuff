@@ -116,6 +116,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 		* [Graphing a Parabola from Vertex Form](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf)
 		* [Vertex & Intercept Form of a Quadratic HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Algebra_Vertex_and_Intercept_Form_HW_WKST_5e99bee2d53db.pdf "nice")
 		* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSe8L5W8V8cN7BH8qxaZyiDFser0az3-v4arH7sfjPllK3nYRQ/viewform?usp=sf_link "form")
+	2. [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
 ---
 
 <!--
