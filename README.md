@@ -57,6 +57,29 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
 ---
 
+### apirl 28
+1. Band
+2. Physical Science
+	* [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oVjI0N1VUb3VvN0E/view?usp=sharing "whorksheet")
+	* [watch](https://drive.google.com/file/d/1_K01t8E5RwMPQO87oSbgLdfbSJ-JaS8j/view?usp=sharing "video") complet 3-6 on [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oZW1zZ25RYU5UMk41OF94V3R3YlNvZ0Z5SjlF/view?usp=sharing "worksheet")
+3. American History
+	* unit 13 [assesment](https://uaschools.instructure.com/courses/4142/assignments/39567)
+	* [reflection](https://docs.google.com/document/d/1yrA3bla3pw0Ru-NCUG0z2z9zJfrJyHAyPoeA2XQeg9s/edit?usp=sharing)
+4. App Dev
+	* unit 16
+5. FLC
+	* [watch](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/RJ_Recap_Video_Act_3_5ea496dbdfb1f.mp4 "video")
+	* [activity](https://docs.google.com/document/d/1n8G2b4F0YbdiZwHA6V-bfx0UpVJRKWLeKSmwxqY1WlA/edit?usp=sharing "worksheet")
+6. Math
+	* <p style="font-size: 45">QUIZ</p>
+	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
+	* [Quadratic Formula Review](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "ban")
+	* [Section 9.2 Day 1 HW WKST #2 ](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_2_5e8f679c1feb6.pdf "worksheet")
+	* [Section 9.2 Day 1]()
+	* [Graphing a Parabola from Vertex Form](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf)
+	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
+---
+
 <!--
 
 ### copy
