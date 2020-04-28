@@ -39,10 +39,10 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### april 27
 1. Band
 2. Physical Science
-	* [watch](https://drive.google.com/file/d/1RtosPNMG_K_nOMIwtACNbJum_G40_N4F/view?usp=sharing "video")
-	* do the [pHet atom building activity](https://docs.google.com/document/d/1BhariZOllheBr52eptTrRjeesHtUOo7M_zB7ON76aHI/edit?usp=sharing "assiment")
+	* ~~[watch](https://drive.google.com/file/d/1RtosPNMG_K_nOMIwtACNbJum_G40_N4F/view?usp=sharing "video")~~
+	* ~~do the [pHet atom building activity](https://docs.google.com/document/d/1BhariZOllheBr52eptTrRjeesHtUOo7M_zB7ON76aHI/edit?usp=sharing "assiment")~~
 3. American History
-	* [watch](https://uaschools.instructure.com/courses/4142/files/598155/download?wrap=1 "video")
+	* ~~[watch](https://uaschools.instructure.com/courses/4142/files/598155/download?wrap=1 "video")~~
 	* record project
 4. App Dev
 	* unit 16
