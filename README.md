@@ -80,6 +80,24 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
 ---
 
+### april 29
+1. Band
+2. Physical Science
+	* [notes](https://drive.google.com/file/d/0B7GiQq4i5D4oQTEtanBhbU42SWxRS1BxZGRySDJQcVd3M1JZ/view?usp=sharing "worksheet")for class tommarrow
+3. American History
+	* [reflection](https://docs.google.com/document/d/1yrA3bla3pw0Ru-NCUG0z2z9zJfrJyHAyPoeA2XQeg9s/edit?usp=sharing) part b
+4. App Dev
+	* unit 16
+5. FLC
+	* [watch](https://edpuzzle.com/assignments/5ea349f432f4e43f105ed949/watch "video")
+	* then [watch](https://edpuzzle.com/assignments/5ea46f941340e13f257f4f67/watch)this
+6. Math
+	* [watch](https://www.youtube.com/watch?v=EFFTtA8WGyM "video")
+	* [Section 9.3 HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Section_9.3_HW_WKST_5ea86860b46ea.pdf "worksheet")for video above
+	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
+	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
+---
+
 <!--
 
 ### copy
