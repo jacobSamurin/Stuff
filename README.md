@@ -75,7 +75,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
 	* [Quadratic Formula Review](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "ban")
 	* [Section 9.2 Day 1 HW WKST #2 ](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_2_5e8f679c1feb6.pdf "worksheet")
-	* [Section 9.2 Day 1]()
+	* [Section 9.2 Day 1](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf)
 	* [Graphing a Parabola from Vertex Form](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf)
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
 ---
