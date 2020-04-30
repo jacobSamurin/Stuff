@@ -103,7 +103,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 2. Physical Science
 	* [worksheet](https://docs.google.com/document/d/1JZHtKTVKZtrXB7lrNEAf3YLzcLtP-NlT-lzOsWFu3Js/edit?usp=sharing "worksheet")
 3. American History
-	* [reflection](https://docs.google.com/document/d/1yrA3bla3pw0Ru-NCUG0z2z9zJfrJyHAyPoeA2XQeg9s/edit?usp=sharing) part c
+	* [reflection](https://docs.google.com/document/d/1whXrG3LFiHXkp6GgTaJcUUtkrgMSRmN_afE3p9-q990/edit?usp=sharing) part c
 4. App Dev
 	* unit 16
 5. FLC
