@@ -121,16 +121,17 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 1. Band
 2. Physical Science
 	* **QUIZ**
+	* [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oT19vcVJmczFtQmtEMlNheXp3d05hUGg1a3Ew/view?usp=sharing)
 3. American History
-	* [reflection](https://docs.google.com/document/d/1whXrG3LFiHXkp6GgTaJcUUtkrgMSRmN_afE3p9-q990/edit?usp=sharing) part c
+	* [reflection](https://docs.google.com/document/d/1whXrG3LFiHXkp6GgTaJcUUtkrgMSRmN_afE3p9-q990/edit?usp=sharing) part c and d
 4. App Dev
 	* unit 16
 5. FLC
-	* [artical](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/April_30th_article-_social-distancing-advice-astronauts-2001007420-article_only_5ea49700007dc.pdf)
-	* [form](https://forms.gle/eHjVSZhtRAFTHHh39 "form")
 	* [write](https://docs.google.com/document/d/1w7yI7555T6YL9ts-08wQdTiFG1eAyYXsvXEWhd6QSoU/edit?usp=sharing)
+	* [audio](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "audio")
+	* [text](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
 6. Math
-	* [watch](https://www.youtube.com/watch?v=EFFTtA8WGyM "video")
+	* [ 9.3 HW WKST #2](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_9.3_HW_WKST_2_5eac317302918.pdf)
 	* [Section 9.3 HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Section_9.3_HW_WKST_5ea86860b46ea.pdf "worksheet")for video above
 	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
