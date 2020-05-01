@@ -20,6 +20,16 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QQ7mSpVyIJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Math List
+1. Quadratic Formula Review 
+2. Section 9.2 Day 1 HW WKST #2 
+3. Section 9.2 Day 1 
+4. Graphing a Parabola from Vertex Form 
+5. Chp 9 App #3 
+6. Chp 9 App #2 
+7. Chp 9 App #1 
+***
+
 ## live classes
 1. Band
 	* TBD
@@ -136,7 +146,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
 	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
 ---
----
+
 
 <!--
 
