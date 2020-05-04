@@ -18,8 +18,6 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 ***
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QQ7mSpVyIJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Math List
 1. Quadratic Formula Review 
 2. Section 9.2 Day 1 HW WKST #2 
@@ -46,105 +44,25 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 ## school
 
-### april 27
+### may 4
 1. Band
 2. Physical Science
-	* ~~[watch](https://drive.google.com/file/d/1RtosPNMG_K_nOMIwtACNbJum_G40_N4F/view?usp=sharing "video")~~
-	* ~~do the [pHet atom building activity](https://docs.google.com/document/d/1BhariZOllheBr52eptTrRjeesHtUOo7M_zB7ON76aHI/edit?usp=sharing "assiment")~~
-3. American History
-	* ~~[watch](https://uaschools.instructure.com/courses/4142/files/598155/download?wrap=1 "video")~~
-	* record project
-4. App Dev
-	* unit 16
-5. FLC
-	* live class
-6. Math
-	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
-	* [Quadratic Formula Review](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "ban")
-	* [Section 9.2 Day 1 HW WKST #2 ](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_2_5e8f679c1feb6.pdf "worksheet")
-	* [Section 9.2 Day 1]()
-	* [Graphing a Parabola from Vertex Form](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf)
-	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
----
-
-### apirl 28
-1. Band
-2. Physical Science
-	* ~~[worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oVjI0N1VUb3VvN0E/view?usp=sharing "whorksheet")~~
-	* ~~[watch](https://drive.google.com/file/d/1_K01t8E5RwMPQO87oSbgLdfbSJ-JaS8j/view?usp=sharing "video") complet 3-6 on [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oZW1zZ25RYU5UMk41OF94V3R3YlNvZ0Z5SjlF/view?usp=sharing "worksheet")~~
-3. American History
-	* ~~unit 13 [assesment](https://uaschools.instructure.com/courses/4142/assignments/39567)~~
-	* ~~[reflection](https://docs.google.com/document/d/1yrA3bla3pw0Ru-NCUG0z2z9zJfrJyHAyPoeA2XQeg9s/edit?usp=sharing)~~
-4. App Dev
-	* unit 16
-5. FLC
-	* ~~[watch](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/RJ_Recap_Video_Act_3_5ea496dbdfb1f.mp4 "video")~~
-	* ~~[activity](https://docs.google.com/document/d/1n8G2b4F0YbdiZwHA6V-bfx0UpVJRKWLeKSmwxqY1WlA/edit?usp=sharing "worksheet")~~
-6. Math
-	* <p style="font-size: 45">QUIZ</p>
-	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
-	* [Quadratic Formula Review](https://www.yumpu.com/en/document/read/43224976/134-hw-quadratic-formula-worksheet-intropdf "ban")
-	* [Section 9.2 Day 1 HW WKST #2 ](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_2_5e8f679c1feb6.pdf "worksheet")
-	* [Section 9.2 Day 1](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_HW_WKST_5e8ced00393eb.pdf)
-	* [Graphing a Parabola from Vertex Form](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Algebra_Section_9.2_Day_1_5e8cead80548d.pdf)
-	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
----
-
-### april 29
-1. Band
-2. Physical Science
-	* [notes](https://drive.google.com/file/d/0B7GiQq4i5D4oQTEtanBhbU42SWxRS1BxZGRySDJQcVd3M1JZ/view?usp=sharing "worksheet")for class tommarrow
-3. American History
-	* [reflection](https://docs.google.com/document/d/1yrA3bla3pw0Ru-NCUG0z2z9zJfrJyHAyPoeA2XQeg9s/edit?usp=sharing) part b
-4. App Dev
-	* unit 16
-5. FLC
-	* [watch](https://edpuzzle.com/assignments/5ea349f432f4e43f105ed949/watch "video")
-	* then [watch](https://edpuzzle.com/assignments/5ea46f941340e13f257f4f67/watch)this
-6. Math
-	* [watch](https://www.youtube.com/watch?v=EFFTtA8WGyM "video")
-	* [Section 9.3 HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Section_9.3_HW_WKST_5ea86860b46ea.pdf "worksheet")for video above
-	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
-	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
----
-
-### april 30
-1. Band
-2. Physical Science
-	* [worksheet](https://docs.google.com/document/d/1JZHtKTVKZtrXB7lrNEAf3YLzcLtP-NlT-lzOsWFu3Js/edit?usp=sharing "worksheet")
-3. American History
-	* [reflection](https://docs.google.com/document/d/1whXrG3LFiHXkp6GgTaJcUUtkrgMSRmN_afE3p9-q990/edit?usp=sharing) part c
-4. App Dev
-	* unit 16
-5. FLC
-	* [artical](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2150433587/April_30th_article-_social-distancing-advice-astronauts-2001007420-article_only_5ea49700007dc.pdf)
-	* [form](https://forms.gle/eHjVSZhtRAFTHHh39 "form")
-	* [write](https://docs.google.com/document/d/1w7yI7555T6YL9ts-08wQdTiFG1eAyYXsvXEWhd6QSoU/edit?usp=sharing)
-6. Math
-	* [watch](https://www.youtube.com/watch?v=EFFTtA8WGyM "video")
-	* [Section 9.3 HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Section_9.3_HW_WKST_5ea86860b46ea.pdf "worksheet")for video above
-	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
-	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
----
-
-### may 1
-1. Band
-2. Physical Science
-	* **QUIZ**
+	* play [game](https://phet.colorado.edu/en/simulation/build-an-atom)
+	* [video](https://edpuzzle.com/assignments/5eab1d7df9184c3ef5d34d52/watch "video")
 	* [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oT19vcVJmczFtQmtEMlNheXp3d05hUGg1a3Ew/view?usp=sharing)
 3. American History
+	* [video](https://uaschools.instructure.com/courses/4142/files/621846/download?wrap=1 "video")
 	* [reflection](https://docs.google.com/document/d/1whXrG3LFiHXkp6GgTaJcUUtkrgMSRmN_afE3p9-q990/edit?usp=sharing) part c and d
 4. App Dev
 	* unit 16
+	* unit 17
 5. FLC
+	* [watch](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2150433587/RJ_Recap-_May_4th_5eaf0ff148fb7.mp4 "video")
+	* [form](https://forms.gle/EJYWBsepDcmFugzp9)
 	* [write](https://docs.google.com/document/d/1w7yI7555T6YL9ts-08wQdTiFG1eAyYXsvXEWhd6QSoU/edit?usp=sharing)
-	* [audio](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "audio")
-	* [text](https://www.folgerdigitaltexts.org/html/Rom.html#line-1.1.0 "book")
 6. Math
-	* [ 9.3 HW WKST #2](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_9.3_HW_WKST_2_5eac317302918.pdf)
-	* [Section 9.3 HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Section_9.3_HW_WKST_5ea86860b46ea.pdf "worksheet")for video above
-	* [Chapter 9 Applications HW WKST #3](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_3_5ea1caa1890cf.pdf "worksheet")
-	* [worksheet](https://uaschools.schoology.com/system/files/attachments/files/m/202004/course/2153651014/Quarter_4_Chapter_9_Applications_HW_WKST_2_5ea1caa1433cc.pdf "worksheet")
+	* [LIVE]()
+	* send the [LIST](jacobsamuin/Stuff/The_list)
 ---
 
 
