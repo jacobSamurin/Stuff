@@ -62,7 +62,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [write](https://docs.google.com/document/d/1w7yI7555T6YL9ts-08wQdTiFG1eAyYXsvXEWhd6QSoU/edit?usp=sharing)
 6. Math
 	* [LIVE]()
-	* send the [LIST](jacobsamuin/Stuff/The_list)
+	* send the [LIST](The_list)
 ---
 
 
