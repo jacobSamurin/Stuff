@@ -56,6 +56,24 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* Review
 ---
 
+### may 5
+1. Band
+2. Physical Science
+	* [watch](https://drive.google.com/file/d/12nlatMy9_xwZdG42XHIOvjk5vnfrH2JT/view?usp=sharing "video")
+	* [worksheet](https://drive.google.com/file/d/0B7GiQq4i5D4oTDRfVzRTM1RpYnZxZVhuVkFIR0RRYnlnMERz/view?usp=sharing "worksheet")
+3. American History
+	* [video](https://uaschools.instructure.com/courses/4142/files/622023/download?wrap=1 "video")
+4. App Dev
+	* unit 16
+	* unit 17	
+5. FLC
+	* [anoutate](https://docs.google.com/document/d/1QAh0BjaiTWWfZLkixI2twWsRtB8S7yuZSIIy1CTLeRU/edit?usp=sharing "worksheet")
+	* [video](https://edpuzzle.com/assignments/5eaefc67b5d2403f26ef9eed/watch "video")
+6. Math
+	* Review
+	* send the [LIST](The_List.md)
+	* quiz
+---
 
 <!--
 
