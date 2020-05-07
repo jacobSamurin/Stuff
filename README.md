@@ -1,8 +1,5 @@
-<!--ha ha funny things
-	There was a tragic event last night there was a kid named Jacob who spilled some mashed potatoes on his plate most people thought it was funny but the man who is making us write this did not find it funny, and this is that story. Before we start I would like to give a thesis about this topic. 
--->
 # Distence learning time
-## other
+## Other
 [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "On Github")
 
 cool [website](https://www.windows93.net "windows93")
