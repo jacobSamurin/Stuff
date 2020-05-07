@@ -97,7 +97,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* ~~[video](https://app.discoveryeducation.com/learn/videos/128b8d9f-3bd2-41cd-a9d6-e1017747755d "video")~~
 	* card [reflection](https://docs.google.com/document/d/1UMLRSIg7ZkD8pfayWy0QEepJE_pJagbviJBNPqnABkI/edit?usp=sharing "worksheet")
 3. American History
-	* [video](https://uaschools.instructure.com/courses/4142/files/625107/download?wrap=1 "video")
+	* ~~[video](https://uaschools.instructure.com/courses/4142/files/625107/download?wrap=1 "video")~~
 4. App Dev
 	* unit 16
 	* unit 17
@@ -105,6 +105,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [video](https://edpuzzle.com/assignments/5eaf006f939e0b3ee793cd9e/watch "video")
 	* [video](https://edpuzzle.com/assignments/5eaf00cc1587453f116d7d94/watch "video")
 	* [lison](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "website") to act 5 secne 1
+	* fill out google [form](https://forms.gle/AxsCsLumfJvpixHt5 "form")
 	* [anoutate](https://docs.google.com/document/d/1QAh0BjaiTWWfZLkixI2twWsRtB8S7yuZSIIy1CTLeRU/edit?usp=sharing "worksheet")
 6. Math
 	* [video](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/IMG_0068_5eb079894e48d.MP4)

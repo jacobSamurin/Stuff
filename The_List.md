@@ -8,7 +8,7 @@
 5. Chp 9 App #3 
 6. Chp 9 App #2 
 7. Chp 9 App #1 
-8. Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1.pdf35
-
+8. Quart
+7. Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1
 ### Amarican History List
 1. project for unit 13
