@@ -94,7 +94,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### May 7
 1. Band
 2. Physical Science
-	* [video](https://app.discoveryeducation.com/learn/videos/128b8d9f-3bd2-41cd-a9d6-e1017747755d "video")
+	* ~~[video](https://app.discoveryeducation.com/learn/videos/128b8d9f-3bd2-41cd-a9d6-e1017747755d "video")~~
+	* card [reflection](https://docs.google.com/document/d/1UMLRSIg7ZkD8pfayWy0QEepJE_pJagbviJBNPqnABkI/edit?usp=sharing "worksheet")
 3. American History
 	* [video](https://uaschools.instructure.com/courses/4142/files/625107/download?wrap=1 "video")
 4. App Dev
