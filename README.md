@@ -78,15 +78,15 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### may 6
 1. Band
 2. Physical Science
-	* [video](https://drive.google.com/file/d/1SKJQ1ZQ2lKp2IC0NQHvA2Q76qVE3Reks/view?usp=sharing "video")
+	* ~~[video](https://drive.google.com/file/d/1SKJQ1ZQ2lKp2IC0NQHvA2Q76qVE3Reks/view?usp=sharing "video")~~
 3. American History
-	* [read](https://drive.google.com/file/d/1kdURxlh6iYv7b-BcR44HSOvAj0BU_2c9/view?usp=sharing "artical")
+	* ~~[read](https://drive.google.com/file/d/1kdURxlh6iYv7b-BcR44HSOvAj0BU_2c9/view?usp=sharing "artical")~~
 4. App Dev
 	* unit 16
 	* unit 17
 5. FLC
 	* [anoutate](https://docs.google.com/document/d/1QAh0BjaiTWWfZLkixI2twWsRtB8S7yuZSIIy1CTLeRU/edit?usp=sharing "worksheet")
-	* [watch](https://edpuzzle.com/assignments/5eaf006f939e0b3ee793cd9e/watch)
+	* ~~[watch](https://edpuzzle.com/assignments/5eaf006f939e0b3ee793cd9e/watch)~~
 6. Math
 	* [video](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/IMG_0068_5eb079894e48d.MP4)
 	* [Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_10.2_Working_with_Radicals_HW_WKST_1_5eb06e9dbe19e.pdf "worksheet")
