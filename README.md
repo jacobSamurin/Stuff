@@ -106,7 +106,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* ~~[video](https://edpuzzle.com/assignments/5eaf00cc1587453f116d7d94/watch "video")~~
 	* ~~[lison](https://shakespeare.folger.edu/listen/romeo-and-juliet/ "website") to act 5 secne 1~~
 	* ~~fill out google [form](https://forms.gle/AxsCsLumfJvpixHt5 "form")~~
-	* [anoutate](https://docs.google.com/document/d/1QAh0BjaiTWWfZLkixI2twWsRtB8S7yuZSIIy1CTLeRU/edit?usp=sharing "worksheet")
+	* ~~[anoutate](https://docs.google.com/document/d/1QAh0BjaiTWWfZLkixI2twWsRtB8S7yuZSIIy1CTLeRU/edit?usp=sharing "worksheet")~~
 6. Math
 	* [video](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/IMG_0068_5eb079894e48d.MP4)
 	* [Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_10.2_Working_with_Radicals_HW_WKST_1_5eb06e9dbe19e.pdf "worksheet")
