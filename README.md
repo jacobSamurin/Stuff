@@ -119,7 +119,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 2. Physical Science
 	* ~~[watch](https://classlink.discoveryeducation.com/learn/player/2a53b970-bd48-4fe8-92cb-d4f304115eb2 "video")~~
 	* card [reflection](https://docs.google.com/document/d/1UMLRSIg7ZkD8pfayWy0QEepJE_pJagbviJBNPqnABkI/edit?usp=sharing "worksheet")
-	* [Quiz](https://uaschools.schoology.com/assignment/2519144315/assessment "Quiz")~~
+	* [Quiz](https://uaschools.schoology.com/assignment/2519144315/assessment "Quiz")
 3. American History
 	* ~~[artical](https://drive.google.com/file/d/1-3JO1c9HFYSsOhrVmZZxVbBTJV5copiF/view)~~
 4. App Dev
