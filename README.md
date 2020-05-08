@@ -114,6 +114,24 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* send the [LIST](The_List.md)
 ---
 
+### may 8
+1. Band
+2. Physical Science
+	* [watch](https://classlink.discoveryeducation.com/learn/player/2a53b970-bd48-4fe8-92cb-d4f304115eb2 "video")
+	* [Quiz](https://uaschools.schoology.com/assignment/2519144315/assessment "Quiz")
+	* card [reflection](https://docs.google.com/document/d/1UMLRSIg7ZkD8pfayWy0QEepJE_pJagbviJBNPqnABkI/edit?usp=sharing "worksheet")
+3. American History
+	* [artical](https://drive.google.com/file/d/1-3JO1c9HFYSsOhrVmZZxVbBTJV5copiF/view)
+4. App Dev
+	* unit 16
+	* unit 17
+5. FLC
+	* [lisen](https://shakespeare.folger.edu/listen/romeo-and-juliet/) to act 5 secne 3
+	* [watch](https://edpuzzle.com/assignments/5eaf03043a251b3f092a750b/watch "video")
+	* fill out [form](https://forms.gle/5RJ8StBpVn3iBsAW6 "form")
+6. Math
+---
+
 <!--
 
 ### copy
