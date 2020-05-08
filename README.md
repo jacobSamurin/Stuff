@@ -121,7 +121,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [Quiz](https://uaschools.schoology.com/assignment/2519144315/assessment "Quiz")
 	* card [reflection](https://docs.google.com/document/d/1UMLRSIg7ZkD8pfayWy0QEepJE_pJagbviJBNPqnABkI/edit?usp=sharing "worksheet")
 3. American History
-	* [artical](https://drive.google.com/file/d/1-3JO1c9HFYSsOhrVmZZxVbBTJV5copiF/view)
+	* ~~[artical](https://drive.google.com/file/d/1-3JO1c9HFYSsOhrVmZZxVbBTJV5copiF/view)~~
 4. App Dev
 	* unit 16
 	* unit 17
