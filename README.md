@@ -118,7 +118,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 1. Band
 2. Physical Science
 	* ~~[watch](https://classlink.discoveryeducation.com/learn/player/2a53b970-bd48-4fe8-92cb-d4f304115eb2 "video")~~
-	* card [reflection](https://docs.google.com/document/d/1UMLRSIg7ZkD8pfayWy0QEepJE_pJagbviJBNPqnABkI/edit?usp=sharing "worksheet")
+	* ~~card [reflection](https://docs.google.com/document/d/1UMLRSIg7ZkD8pfayWy0QEepJE_pJagbviJBNPqnABkI/edit?usp=sharing "worksheet")~~
 	* [Quiz](https://uaschools.schoology.com/assignment/2519144315/assessment "Quiz")
 3. American History
 	* ~~[artical](https://drive.google.com/file/d/1-3JO1c9HFYSsOhrVmZZxVbBTJV5copiF/view)~~
@@ -126,9 +126,9 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* unit 16
 	* unit 17
 5. FLC
-	* [lisen](https://shakespeare.folger.edu/listen/romeo-and-juliet/) to act 5 secne 3
-	* [watch](https://edpuzzle.com/assignments/5eaf03043a251b3f092a750b/watch "video")
-	* fill out [form](https://forms.gle/5RJ8StBpVn3iBsAW6 "form")
+	* ~~[lisen](https://shakespeare.folger.edu/listen/romeo-and-juliet/) to act 5 secne 3~~
+	* ~~[watch](https://edpuzzle.com/assignments/5eaf03043a251b3f092a750b/watch "video")~~
+	* ~~fill out [form](https://forms.gle/5RJ8StBpVn3iBsAW6 "form")~~
 6. Math
 	* [Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_10.2_Working_with_Radicals_HW_WKST_1_5eb06e9dbe19e.pdf "worksheet")
 	* [Quarter 4 Algebra Section 10.2 Multiplying Radicals HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_10.2_Multiplying_Radicals_HW_WKST_5eb43e7435458.pdf "worksheet")
