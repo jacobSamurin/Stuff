@@ -126,8 +126,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* unit 16
 	* unit 17
 5. FLC
-	* [lisen](https://shakespeare.folger.edu/listen/romeo-and-juliet/) to act 5 secne 3
-	* [watch](https://edpuzzle.com/assignments/5eaf03043a251b3f092a750b/watch "video")
+	* ~~[lisen](https://shakespeare.folger.edu/listen/romeo-and-juliet/) to act 5 secne 3~~
+	* ~~[watch](https://edpuzzle.com/assignments/5eaf03043a251b3f092a750b/watch "video")~~
 	* fill out [form](https://forms.gle/5RJ8StBpVn3iBsAW6 "form")
 6. Math
 	* [Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_10.2_Working_with_Radicals_HW_WKST_1_5eb06e9dbe19e.pdf "worksheet")
