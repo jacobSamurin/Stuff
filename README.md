@@ -34,7 +34,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### may 11
 1. Band
 2. Physical Science
-	* [watch](https://edpuzzle.com/assignments/5eab215f2a55ba3f1433f10b/watch "video")
+	* ~~[watch](https://edpuzzle.com/assignments/5eab215f2a55ba3f1433f10b/watch "video")~~
 	* [watch](https://edpuzzle.com/assignments/5eb8372680c02c3f2cf2a965/watch "video")
 	* do [notes](https://drive.google.com/file/d/0B7GiQq4i5D4oRjdkZFk0Z1VCTkhpZ085aDVOak9CWmRibENz/view?usp=sharing "worksheet")
 3. American History
