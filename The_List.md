@@ -1,10 +1,12 @@
-[1]:https://docs.google.com/document/d/1w7yI7555T6YL9ts-08wQdTiFG1eAyYXsvXEWhd6QSoU/edit?usp=sharing
-[2]:https://uaschools.instructure.com/courses/4142/assignments/39567
+[1]:https://uaschools.instructure.com/courses/4142/assignments/39567
 # The List
-|math|amarican history|FLC|
-|:-:|:-:|:-:|
-|Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1|[project for unit 13][2]|[Act 3 jornal prompt][1]
-|Section 9.3 MAZE|
-|Solving Quadratic...Practice|
-|Section 9.3 HW WKST #2|
-|Section 9.3 HW WKST|
+|math                                                           |amarican history        |
+|:-------------------------------------------------------------:|:----------------------:|
+|Quadratic Formula Review                                       |[project for unit 13][1]|
+|Section 9.2 Day 1                                              |
+|Chp 9 App #1                                                   |
+|Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1|
+|Section 9.3 MAZE                                               |
+|Solving Quadratic...Practice                                   |
+|Section 9.3 HW WKST #2                                         |
+|Section 9.3 HW WKST                                            |

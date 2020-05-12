@@ -57,9 +57,10 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 ### may 12
 1. Band
 2. Physical Science
-	* [watch](https://drive.google.com/file/d/1kA7E3I0ypbd_eqtbAda8WlI8KWjrvo48/view?usp=sharing "video")
+	* ~~[watch](https://drive.google.com/file/d/1kA7E3I0ypbd_eqtbAda8WlI8KWjrvo48/view?usp=sharing "video")~~
 	* [lab](https://uaschools.schoology.com/assignments/2523679347/info "assinment")
 3. American History
+	* [project for unit 13](https://uaschools.instructure.com/courses/4142/assignments/39567)
 	* make a [copy](https://docs.google.com/document/d/1DBM6fH3zWkpsz2rvVblTufAWXzFJaP_np5o84LufLBQ/edit?usp=sharing)
 4. App Dev
 	* unit 17
