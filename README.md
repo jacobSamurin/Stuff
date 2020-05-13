@@ -74,8 +74,19 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 	* [THE LIST](The_list.md)
 ---
 
+### may 13
+1. Band
+2. Physical Science
+	* [worksheet](https://drive.google.com/file/d/1T3h3bWslhWvQiQtqxfp2CqGJndDLZuMr/view?usp=sharing) and [answers]()
+	* 
+3. American History
+4. App Dev
+5. FLC
+6. Math
+---
 
 <!--
+
 ### copy
 1. Band
 2. Physical Science
