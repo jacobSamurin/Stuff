@@ -58,10 +58,10 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 1. Band
 2. Physical Science
 	* ~~[watch](https://drive.google.com/file/d/1kA7E3I0ypbd_eqtbAda8WlI8KWjrvo48/view?usp=sharing "video")~~
-	* [lab](https://uaschools.schoology.com/assignments/2523679347/info "assinment")
+	* ~~[lab](https://uaschools.schoology.com/assignments/2523679347/info "assinment")~~
 3. American History
-	* [project for unit 13](https://uaschools.instructure.com/courses/4142/assignments/39567)
-	* make a [copy](https://docs.google.com/document/d/1DBM6fH3zWkpsz2rvVblTufAWXzFJaP_np5o84LufLBQ/edit?usp=sharing)
+	* [project for unit 13](https://uaschools.instructure.com/courses/4142/assignments/39567)  the [sheet](https://docs.google.com/document/d/1whXrG3LFiHXkp6GgTaJcUUtkrgMSRmN_afE3p9-q990/edit?usp=sharing)
+	* make a [copy](https://docs.google.com/document/d/1DBM6fH3zWkpsz2rvVblTufAWXzFJaP_np5o84LufLBQ/edit?usp=sharing) for unit 14
 4. App Dev
 	* unit 17
 5. FLC
