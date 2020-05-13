@@ -15,6 +15,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 ***
 
+Remember Miss.Kamdar is there for you 
+
 ## live classes
 1. Band
 	* TBD
