@@ -1,9 +1,9 @@
 [1]:https://uaschools.instructure.com/courses/4142/assignments/39567
 # The List
-|math                                                           |amarican history        |
-|:-------------------------------------------------------------:|:----------------------:|
-|Quadratic Formula Review                                       |[project for unit 13][1]|
-|Section 9.2 Day 1                                              |
+|math                                                           |
+|:-------------------------------------------------------------:|
+|Quadratic Formula Review                                       |
+|~~Section 9.2 Day 1~~                                          |
 |Chp 9 App #1                                                   |
 |Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1|
 |Section 9.3 MAZE                                               |
