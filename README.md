@@ -15,8 +15,6 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 ***
 
-Remember Miss.Kamdar is there for you 
-
 ## live classes
 1. Band
 	* TBD
@@ -88,6 +86,25 @@ Remember Miss.Kamdar is there for you
 5. FLC
 	* write an outine in [essay](https://docs.google.com/document/d/1lp-on8rJr9VNhBg8amJbHKPK9cx4-VNSq3tvWMjnMoM/edit?usp=sharing)
 6. Math
+	* [Quarter 4 Section 10.2-10.3 Quiz Review](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Section_10.2-10.3_Quiz_Review_5eb9951d10994.pdf)
+	* [Section 10.3 Combining Like Radicals HW WKST](https://uaschools.schoology.com/course/2153651014/materials/gp/2526516577 "worksheet") #1,3,5,11,9,13,19
+	* [Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_10.2_Working_with_Radicals_HW_WKST_1_5eb06e9dbe19e.pdf "worksheet")
+	* [Quarter 4 Algebra Section 10.2 Multiplying Radicals HW WKST](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_10.2_Multiplying_Radicals_HW_WKST_5eb43e7435458.pdf "worksheet")
+	* [THE LIST](The_list.md)
+---
+
+### may 14
+1. Band
+2. Physical Science
+3. American History
+	* ~~[project for unit 13](https://uaschools.instructure.com/courses/4142/assignments/39567)  the [sheet](https://docs.google.com/document/d/1whXrG3LFiHXkp6GgTaJcUUtkrgMSRmN_afE3p9-q990/edit?usp=sharing)~~
+	* make a [copy](https://docs.google.com/document/d/1DBM6fH3zWkpsz2rvVblTufAWXzFJaP_np5o84LufLBQ/edit?usp=sharing) for unit 14
+4. App Dev
+	* unit 17
+5. FLC
+	* write an outine in [essay](https://docs.google.com/document/d/1lp-on8rJr9VNhBg8amJbHKPK9cx4-VNSq3tvWMjnMoM/edit?usp=sharing)
+6. Math
+	* turn in [form](https://docs.google.com/forms/d/e/1FAIpQLSejpCeKy7tPR52_54EUDwZtFjAXDHLcODliYjYarTc7x0Gf6g/viewform?usp=sf_link)
 	* [Quarter 4 Section 10.2-10.3 Quiz Review](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Section_10.2-10.3_Quiz_Review_5eb9951d10994.pdf)
 	* [Section 10.3 Combining Like Radicals HW WKST](https://uaschools.schoology.com/course/2153651014/materials/gp/2526516577 "worksheet") #1,3,5,11,9,13,19
 	* [Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1](https://uaschools.schoology.com/system/files/attachments/files/m/202005/course/2153651014/Quarter_4_Algebra_Section_10.2_Working_with_Radicals_HW_WKST_1_5eb06e9dbe19e.pdf "worksheet")
