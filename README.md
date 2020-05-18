@@ -33,10 +33,10 @@ Remember Miss.Kamdar is there for you
 
 ## school
 
-# may 18-22
-|math|
-|:-:|
-|Quadratic Formula Review|
+# may 18-22 Missing work
+|math|amarican history|App Dev|
+|:-:|:-:|:-:|
+|Quadratic Formula Review|Unit 14 assesment|unit 17|
 |~~Section 9.2 Day 1~~|
 |Chp 9 App #1|
 |Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1|
