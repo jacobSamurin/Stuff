@@ -15,32 +15,16 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 
 ***
 
-Remember Miss.Kamdar is there for you 
-
-## live classes
-1. Band
-	* TBD
-2. Physical Science
-	* Thursdays
-3. Amarican History
-	* TBD
-4. App Dev
-	* Wednesday and Fridays
-5. FLC
-	* TBD
-6. Math
-	* monday and thersday
-
 ## school
 
 # may 18-22 Missing work
-|math|amarican history|App Dev|
-|:-:|:-:|:-:|
-|Quadratic Formula Review|Unit 14 assesment|unit 17|
+|math|amarican history|App Dev|flc|
+|:-:|:-:|:-:|:-:|
+|~~Quadratic Formula Review~~|Unit 14 assesment|unit 17|final essay|
 |~~Section 9.2 Day 1~~|
-|Chp 9 App #1|
+|~~Chp 9 App #1~~|
 |Quarter 4 Algebra Section 10.2 Working with Radicals HW WKST #1|
-|Section 9.3 MAZE|
+|~~Section 9.3 MAZE~~|
 |Solving Quadratic...Practice|
 |Section 9.3 HW WKST #2|
 |Section 9.3 HW WKST|
