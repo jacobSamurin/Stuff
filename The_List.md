@@ -1,4 +1,3 @@
-[1]:https://uaschools.instructure.com/courses/4142/assignments/39567
 # The List
 |math                                                           |
 |:-------------------------------------------------------------:|
