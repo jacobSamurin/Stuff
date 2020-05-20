@@ -14,7 +14,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 [quizlet](https://quizlet.com/_6emoag?x=1jqt&i=13lg3c "quizlet")
 
 ***
-
+# all math worksheet in zip
+* [here](https://send.firefox.com/download/a00c077f7e487965/#m2RjfT3hyZMhmFZjNzztzw "zip")
 ## school
 
 # may 18-22 Missing work
@@ -28,8 +29,8 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 |~~Solving Quadratic...Practice~~|
 |Section 9.3 HW WKST #2|
 |Section 9.3 HW WKST|
+|Quarter 4 Algebra Section 10.2 Multiplying Radicals HW WKST|
 |Quarter 4 Section 10.3 Combining Like Radicals HW WKST|
-|
 
 <!--
 
