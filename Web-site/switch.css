@@ -1,12 +1,64 @@
 body{
-    background-color: purple;
+    background-color: black;
 }
-div{
+.div{
     background-color: cyan;
     margin: 2%;
-    padding-bottom: 100%;
+    padding-bottom: 32%;
     color: black;
 }
-ol{
-    size: 24px;
+nav ul {
+    list-style-type: none;
+    margin: 0;
+	padding: 0;
+	width: 200px;
+	background-color: #8bf7d5;
+    border: 1px solid black;
+	}
+nav li a{
+	background-color: #8bf7d5;
+	display: block ;
+	width: 168px;
+	padding: 8px 16px;
+	text-decoration: none;
+	text-align: center;
+	color: #03ada8;
 }
+nav h1{
+	text-align: center;
+}
+nav li a:hover{
+	background-color: #027853;
+	color: black;
+}
+.myButton {
+    background:linear-gradient(to bottom, #ff0000 5%, #ff0000 100%);
+    background-color:#ffffff;
+    border-radius:28px;
+    border:1px solid #000000;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:24px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #ff0000 5%, #ff0000 100%);
+    background-color:#ff0000;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: auto; 
+    text-align: center;
+    font-size: larger;
+    padding-left: 3%;
+    padding-right: 3%;
+  }

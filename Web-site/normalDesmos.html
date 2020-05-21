@@ -2,46 +2,30 @@
 <html>
     <head>
         <title>Desmos</title>
-        <style>
-            body{
-                background-color: purple;
-            }
-            .myButton {
-	            background:linear-gradient(to bottom, #ff0000 5%, #ff0000 100%);
-                background-color:#ff0000;
-                border-radius:28px;
-                border:1px solid #000000;
-                display:inline-block;
-                cursor:pointer;
-	            color:#ffffff;
-	            font-family:Arial;
-	            font-size:24px;
-	            padding:16px 31px;
-	            text-decoration:none;
-                text-shadow:0px 1px 0px #ffffff;
-                margin-left: auto;
-                margin-right: auto;
-            }
-            .myButton:hover {
-            	background:linear-gradient(to bottom, #ff0000 5%, #ff0000 100%);
-            	background-color:#ff0000;
-            }
-            .myButton:active {
-            	position:relative;
-            	top:1px;
-            }
-
-        </style>
+        <link rel="stylesheet" href="switch.css">
     </head>
     <body>
-        <h1 style="text-align: center;">Desmos</h1>
+        <nav>
+            <ul>
+                <li><a href="home-site.html">Home</a></li>
+                <hr>
+                <li><a href="normalDesmos.html">desmos</a></li>
+                <hr>
+                <li><a href="todo.html">todo</a></li>
+                <hr>
+                <li><a href="https://github.com/jacobSamurin/stuff">Github</a></li>  
+            </ul>
+        </nav>
+        <div style="margin-top: 3%;">
+        <a href="home-site.html" class="myButton" style="text-align: center;">Home</a>  
+        <h1 style="text-align: center; color: white;">Desmos</h1>
         <script src="https://www.desmos.com/api/v1.4/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
         <div id="calculator" style="width: 90%; height: 800px;margin-left: auto;margin-right: auto;"></div>
         <script>
             var elt = document.getElementById('calculator');
             var calculator = Desmos.GraphingCalculator(elt);
         </script>
-        <a href="home-site.html" class="myButton">Home</a>
+        </div>
     </body>
 </html>
 
