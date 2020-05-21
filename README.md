@@ -29,7 +29,7 @@ Erin Maynes [youtube channel](https://www.youtube.com/channel/UCkH9EgsUJJhHA4SB_
 |~~Solving Quadratic...Practice~~|
 |~~Section 9.3 HW WKST~~|
 |~~Quarter 4 Algebra Section 10.2 Multiplying Radicals HW WKST~~|
-|Section 9.3 HW WKST #2|
+|~~Section 9.3 HW WKST #2~~|
 |Quarter 4 Section 10.3 Combining Like Radicals HW WKST|
 
 <!--
