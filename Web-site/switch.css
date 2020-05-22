@@ -12,17 +12,17 @@ nav ul {
     margin: 0;
 	padding: 0;
 	width: 200px;
-	background-color: #8bf7d5;
+	background-color: darkblue;
     border: 1px solid black;
 	}
 nav li a{
-	background-color: #8bf7d5;
+	background-color: darkblue;
 	display: block ;
 	width: 168px;
 	padding: 8px 16px;
 	text-decoration: none;
 	text-align: center;
-	color: #03ada8;
+	color: rgb(231, 228, 228);
 }
 nav h1{
 	text-align: center;
