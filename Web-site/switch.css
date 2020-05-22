@@ -1,11 +1,11 @@
 body{
-    background-color: black;
+    background-color: white;
 }
 .div{
-    background-color: cyan;
+    background-color: blue;
     margin: 2%;
     padding-bottom: 32%;
-    color: black;
+    color: white;
 }
 nav ul {
     list-style-type: none;
@@ -61,4 +61,4 @@ table, th, td{
     font-size: larger;
     padding-left: 3%;
     padding-right: 3%;
-  }
+}
